@@ -2,22 +2,22 @@
     <channel>
         <title><![CDATA[larobe.pl]]></title>
         <description><![CDATA[larobe.pl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/larobe-pl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 11:12:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 11:17:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/larobe-pl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Firma la Robe powstała z miłości do rzeczy pięknych oraz z tęsknoty za przeszłością. Naszą inspiracją są przede wszystkim lata pięćdziesiąte i sześćdziesiąte minionego wieku, kiedy moda podkreślała kobiecą sylwetkę a kobiety nosiły sukienki i spódnice. Kiedy ubrania miały ciekawą i niepowtarzalną formę. Kiedy jakość i dbanie o detale była priorytetem. Pragniemy przenieść się w czasie i dać naszym klientkom wyjątkowy, ponadczasowy produkt.
+            <title><![CDATA[larobe.pl]]></title>
+            <description><![CDATA[<article><h1>larobe.pl</h1><p>Firma la Robe powstała z miłości do rzeczy pięknych oraz z tęsknoty za przeszłością. Naszą inspiracją są przede wszystkim lata pięćdziesiąte i sześćdziesiąte minionego wieku, kiedy moda podkreślała kobiecą sylwetkę a kobiety nosiły sukienki i spódnice. Kiedy ubrania miały ciekawą i niepowtarzalną formę. Kiedy jakość i dbanie o detale była priorytetem. Pragniemy przenieść się w czasie i dać naszym klientkom wyjątkowy, ponadczasowy produkt.
  
 Sukienki i stroje o unikatowych formach, które dzięki starannemu wykończeniu będą im służyć przy wielu okazjach. Ubrania w stylu retro dostosowane do wymagań współczesnych kobiet.
  
 Nasze ubrania produkowane są w krótkich seriach z wykorzystaniem wysokiej klasy włoskich materiałów. Wszystkie rzeczy szyjemy w Polsce, opierając się na doświadczeniach najlepszych polskich specjalistów.
  
-Jeśli chcesz podkreślić swoją kobiecą, romantyczną naturę, cenisz sobie elegancję i ponadczasowy design nasze ubrania stworzone są z myślą o Tobie. Zapraszamy do zakupów w naszym e-butiku na DaWanda.pl.</p>]]></description>
-            <link>undefined1a37f5a3-88df-42f2-9039-c0d50a6f505a/index.html</link>
+Jeśli chcesz podkreślić swoją kobiecą, romantyczną naturę, cenisz sobie elegancję i ponadczasowy design nasze ubrania stworzone są z myślą o Tobie. Zapraszamy do zakupów w naszym e-butiku na DaWanda.pl.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5306737d5879d97bca7ef8fee9728ae9fb37a727.jpg"></article>]]></description>
+            <link>https://thegrid.ai/larobe-pl/1a37f5a3-88df-42f2-9039-c0d50a6f505a/index.html</link>
             <guid isPermaLink="false">1a37f5a3-88df-42f2-9039-c0d50a6f505a</guid>
-            <pubDate>Tue, 15 Mar 2016 11:12:19 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 11:17:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
